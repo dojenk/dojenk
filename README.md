@@ -4,7 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ... 
 --->
-- 📫 How to reach me ... donnyjenkins@pm.me
+- 📫 How to reach me ... tbd
 
 <!---
 dojenk/dojenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
